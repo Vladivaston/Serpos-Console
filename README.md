@@ -1,42 +1,44 @@
-# Serpo's Console
-**A hard-fork of Quartz's Console that seeks to enhance mod compatibility whilst still maintaining the original feel of the pack.**
+![Banner](https://cdn.modrinth.com/data/cached_images/6cfe670824bb97a3b7217af4809d74b4099a315c.webp)
+### A Modpack which recreates Legacy Console Edition as if it never ended.
 
-![Mountains with the old gamma + fog](https://cdn.modrinth.com/data/mIMHT3wf/images/4bffbed4e0f7260c0379c12b088b892d5604ead7.png)
+![Forests and Oceans](https://cdn.modrinth.com/data/mIMHT3wf/images/66df6cbc4e9d957d2934d71679e4784e1894cc00.png)
 
-# What is Serpo's Console?
-Serpo's Console seeks to maintain the idea of Quartz's Console; "What if Legacy Console Edition never discontinued?"
-We try to incorporate new features from modern Minecraft whilst retaining the best of LCE. We do this via a variety of mods.
+![What is Serpo's Console?](https://cdn.modrinth.com/data/cached_images/706b9d8f98d5914d35fa3185aae5988fd4ea4e28.webp)
+Serpo's Console is a modpack that uses modern mods such as Legacy4J which recreate the Legacy Console experience. It does this whilst remaining lightweight and performant.
 
-Such as Legacy4J which near-perfectly recreates the LCE Menu and HUD,
-And other mods to recreate Legacy as if it never ended.
+![image](https://cdn.modrinth.com/data/mIMHT3wf/images/cfc40bbe8eb9f64447fa5edd6fa8fce80cd85971.png)
 
-As such Quartz's Console is, this modpack is required on both Client and Server to run properly.
-
-# Why use this over Quartz's Console?
+![Use this over Quartz's Console?](https://cdn.modrinth.com/data/cached_images/a82c15d491e146f33de0986156f97d085b238052.webp)
 Here's a list of reasons to use this over QC;
 - Massively better performance and less mod conflictions
 - More thorough playtesting and quality assurance
 - Larger, faster and more quality updates
 - A focus on Configurability
-- An Intent to be more community oriented. Feel free to report any issues you come across in the Issue Tracker!
+- An Intent to be more community oriented.
+If you have any issues or concerns, see our [Issue Tracker](https://github.com/omo50/Serpos-Console/issues).
 
-### If you want a near 1-1 recreation of Legacy Console...
-[Check this out!](https://modrinth.com/modpack/consoleedition)
+
 
 ![Widescreen area](https://cdn.modrinth.com/data/mIMHT3wf/images/62f031410e0082671da4b48c8efd716cde968174.png)
 
-# Need a server?
-### If you're searching for reliable server hosting, look no further than BisectHosting! Use raamviot50 to get 25% off your first month of any gaming server as a new customer. Their 24/7 support and quick response times guarantee a smooth gaming experience.
-![Bisect Hosting Partnership](https://www.bisecthosting.com/partners/custom-banners/d6c28caa-43a1-4d76-938a-e18c926d8d85.webp)
+![Need a server?](https://cdn.modrinth.com/data/cached_images/a3a4bf407237b44d6feca43fa3389fc76aca71bc.webp)
+![BisectHosting partnership](https://cdn.modrinth.com/data/cached_images/52b99cb4abe950f93498b9a095d4ebc92aebcf7c.webp)
 
 
-## Special Thanks
+![Special Thanks](https://cdn.modrinth.com/data/cached_images/cd6dc35fff5d63c5e7b21ffe85fbab53fd3241ac.webp)
 - [BuddarScotchy](https://modrinth.com/user/buddarscotchy) for playtesting and general assistance
 - [Serpo](https://modrinth.com/user/serpo) for originally suggesting the fork
+- [N00B](https://modrinth.com/user/N00B) for making Console-Idated of which led to QC:R's Existence
+
+
+<details>
+<summary>Attributions</summary>
 
 ## Attribution
-- [Quartzmaven](https://modrinth.com/user/Quartzmaven) for making the original [QC](https://modrinth.com/modpack/quartzs-console-rewritten) of which this modpack forked from. He also made the logo
+- [Quartzmaven](https://modrinth.com/user/Quartzmaven) for making [Quartz's Console: Rewritten](https://modrinth.com/modpack/quartzs-console-rewritten), of which this modpack built off of
 - [Hypersoop and Simply Optimized](https://modrinth.com/modpack/sop) for some of their configuration files
 
-![Pillager Outpost](https://cdn.modrinth.com/data/mIMHT3wf/images/0ae39b5d42b5c82eabb0c08b82feb135796c1440.png)
+
+
+</details>
 
