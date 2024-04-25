@@ -8,8 +8,8 @@ Serpo's Console is a modpack that uses modern mods such as Legacy4J which recrea
 
 ![image](https://cdn.modrinth.com/data/mIMHT3wf/images/cfc40bbe8eb9f64447fa5edd6fa8fce80cd85971.png)
 
-![Use this over Quartz's Console?](https://cdn.modrinth.com/data/cached_images/a82c15d491e146f33de0986156f97d085b238052.webp)
-Here's a list of reasons to use this over QC;
+![What are the benefits of this modpack?](https://cdn.modrinth.com/data/cached_images/a82c15d491e146f33de0986156f97d085b238052.webp)
+Here's a list of reasons to use this;
 - Massively better performance and less mod conflictions
 - More thorough playtesting and quality assurance
 - Larger, faster and more quality updates
@@ -35,7 +35,6 @@ If you have any issues or concerns, see our [Issue Tracker](https://github.com/o
 <summary>Attributions</summary>
 
 ## Attribution
-- [Quartzmaven](https://modrinth.com/user/Quartzmaven) for making [Quartz's Console: Rewritten](https://modrinth.com/modpack/quartzs-console-rewritten), of which this modpack built off of
 - [Hypersoop and Simply Optimized](https://modrinth.com/modpack/sop) for some of their configuration files
 
 
